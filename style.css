@@ -135,6 +135,18 @@ margin: 2px;
    
 }
 
+.button5 {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: rgb(56, 56, 56);
+  padding: 0.7rem 0.7rem;
+  border-radius: 10px;
+margin: 2px;
+
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
 .button3:hover {
   color: #09ff00;
   text-decoration: none;
@@ -370,6 +382,7 @@ transform: translateX(2000px);
 .bebe {
   background-color: #000000;
 }
+
 .vse {
   margin-left: 20px;
 }
